@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Myself<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Web Development<br>📫 How to reach me @madhav14bhattad@gmail.com
+🔭 I’m currently working on Myself<br>🌱 I’m currently learning...<br>💬 Ask me about Java, DSA...<br>📫 How to reach me @madhav14bhattad@gmail.com
 
 
 ## 🌐 Socials:
